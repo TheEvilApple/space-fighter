@@ -1,0 +1,26 @@
+van egy dinamikusan változó háttér az ûrrõl,
+a háttér jobbról balra tolódik,
+lézerek is vannak a háttérben
+
+van egy játékos(ûrhajó formájában),
+három élete van
+ha ezek elfogynak, a játék elõrõl kezdõdik
+csak fel, le tud mozogni a nyilakkal 
+a képernyõ bal oldalához van "tapadva"
+az alap ûrhajót lehet upgrade-elni: lehet rá pajszot venni, az életerejét fejleszteni, stb.
+
+
+jönnek szörnyek szembe, különbözõ méretûek (3):
+ha a legkisebb talál el, -1 élet
+ha a közepes, -2
+ha a legnagyobb, -3 (game over)
+minél nagyobb, annál lasabban jönnek a lövedékei, hogy egyszerûbb legyen kikerülni õket
+
+egyéb ellenségek az ûrhajót,
+szintén jönnek szembe, mint a szörnyek.
+van 6 különbözõ színû,
+nincs sok életük,
+minden szín különbözõ mértékben ad pénzt, amit késõbb fejlesztésekre lehet elkölteni
+
+a játék szintebõl áll,
+mindn szint végén van egy fõboss, amit nehéz legyõzni (sok életerõvel rendelkezik)

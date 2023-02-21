@@ -1,0 +1,24 @@
+======================================
+A 3. IKT projekt naplózása.
+2023.01.30 - 2023.
+======================================
+Naplózás formátuma:
+[Dátum] (Név) Tevékenység
+Rövidített nevek:
+| LB - Lóránt Bozsó | PM - Pásztor Marcell | VB - Vágvölgyi Balázs | ALL - Egész csoport |
+======================================
+[2023.01.30.] (ALL) - Feladat értelmezése, alapok megbeszélése
+[2023.01.30.] (VB) - OneDrive mappa készítése, megosztása, tesztelése
+[2023.01.30.] (VB) - Kommunikációs felület (Discord csoport) létrehozása, tesztelése
+[2023.01.31.] (ALL) - A célunk kitűzése (milyen lesz a játék)
+[2023.02.01.] (VB) - Naplózási dokumentum létrehozása, "formázása", eddigi események beírása
+[2023.02.07.] (PM, VB) - Alapötlet (Ágoston által) átnézése
+[2023.02.07.] (PM, VB) - Ötletelés, játék vázlatának megírása (Bozsó hiányzott)
+[2023.02.07.] (PM, VB) - GitHub repository létrehozása, Pásztor és Bozsó meghívása
+[2023.02.07.] (PM, VB) - Minden ötlet feltöltése a OneDrive-ba (Bozsó hiányzott)
+[2023.02.07.] (PM, VB) - Végleges játékötlet megírásának elkezése
+[2023.02.20.] (ALL) - Teendők megbeszélése, feladatok kiosztása
+[2023.02.20.] (PM) - Játékelemek megrajzolásának elkezdése
+[2023.02.20.] (LB) - Játék hátterének megkeresése
+[2023.02.21.] (VB) - Játék végső leírásának befejezése
+[2023.02.21.] (VB) - Játék fájlainak áthelyezése OneDrive-ről GitHub-ra
